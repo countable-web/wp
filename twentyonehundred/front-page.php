@@ -3,7 +3,7 @@
 get_header(); ?>
 
 <div id="primary" class="content-area">
-    <section id="hero">(Hero Content)</section>
+    <section id="hero">(Shero Content)</section>
     <section>(Rich Nav, duplicates header)</section>
 	<main id="main" class="site-main" role="main">
 		<?php
